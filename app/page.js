@@ -7,9 +7,9 @@ export default function Home() {
       <h1>Messenger Chat Implement</h1>
       {/* <MessengerChat /> */}
       <FacebookConfig />
-      <div id="fb-root"></div>
+      {/* <div id="fb-root"></div>
 
-      <div id="fb-customer-chat" className="fb-customerchat"></div>
+      <div id="fb-customer-chat" className="fb-customerchat"></div> */}
     </div>
   );
 }
